@@ -1,3 +1,12 @@
 #include "door.h"
+#include <iostream>
 
-Door::Door() {};
+void Door::doorType()
+{
+}
+
+Door::Door() {}
+Door::~Door()
+{
+	std::cout << "\nDoor destructor\n";
+};

@@ -14,11 +14,10 @@ protected:
 	int price;
 	string name;
 	bool r;				// left door or  right door
-
-	virtual void doorType() = 0;
 public:
+	virtual void doorType();
 	Door();
-
+	~Door();
 };
 
 
