@@ -4,7 +4,7 @@
 #include "door.h"
 
 
-class WoodenDoor: public Door {
+class WoodenDoor: protected Door {
 private:
 
 	const int woodCost = 100;
