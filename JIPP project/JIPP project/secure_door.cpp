@@ -20,7 +20,7 @@ string SecureDoor::getName() {
 
 void SecureDoor::setName(string _name) {
 	name = _name;
-}
+} 
 
 int SecureDoor::getPrice() {
 	return price;

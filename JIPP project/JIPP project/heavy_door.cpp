@@ -20,7 +20,7 @@ string HeavyDoor::getName() {
 
 void HeavyDoor::setName(string _name) {
 	name = _name;
-}
+} 
 
 int HeavyDoor::getPrice() {
 	return price;

@@ -12,7 +12,7 @@ protected:
 	 int ironCost;
 
 	int price;
-	string name;
+	string name; 
 	bool r;				// left door or  right door
 public:
 	virtual void doorType();

@@ -9,4 +9,4 @@ Door::Door() {}
 Door::~Door()
 {
 	std::cout << "\nDoor destructor\n";
-};
+}; 

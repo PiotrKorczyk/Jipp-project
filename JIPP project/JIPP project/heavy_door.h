@@ -12,7 +12,7 @@ private:
 
 	int price;
 	string name;
-	bool r;
+	bool r; 
 
 public:
 

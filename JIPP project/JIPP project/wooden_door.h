@@ -12,9 +12,9 @@ private:
 
 	int price;
 	string name;
-	bool r;
+	bool r; 
 
-public:
+public:  
 
 	WoodenDoor(string _name, int _price, bool _r);
 	~WoodenDoor();

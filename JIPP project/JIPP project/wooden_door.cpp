@@ -21,7 +21,7 @@ string WoodenDoor::getName() {
 void WoodenDoor::setName( string _name) {
 	name = _name;
 }
-
+ 
 int WoodenDoor::getPrice() {
 	return price;
 }

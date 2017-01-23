@@ -14,7 +14,7 @@ private:
 	string name;
 	bool r;
 
-public:
+public: 
 
 	SecureDoor(string _name, int _price, bool _r);
 	~SecureDoor();
