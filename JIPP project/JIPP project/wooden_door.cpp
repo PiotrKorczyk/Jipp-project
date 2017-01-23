@@ -42,5 +42,5 @@ void WoodenDoor::setR(bool _r) {
 
 void WoodenDoor::doorType() {
 
-	cout << "Door type: " << name << " price: " << price << "$ right: " << r << endl;
+	cout << "Wooden door type: " << name << " price: " << price << "$ right: " << r << endl;
 }
